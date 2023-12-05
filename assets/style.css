@@ -1,0 +1,13 @@
+.hidden {
+    display: none
+}
+
+.button {
+    background-color: skyblue;
+    color: white;
+    font-size: large;
+}
+
+body {
+    background-color: rgb(161, 155, 155);
+}
